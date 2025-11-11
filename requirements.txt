@@ -1,5 +1,7 @@
 streamlit
 torch
+tensorflow
 pandas
 numpy
 matplotlib
+scikit-learn
